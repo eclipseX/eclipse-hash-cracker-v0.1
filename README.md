@@ -11,3 +11,6 @@ Cracking;
   - SHA-512
 
 hashes.
+
+![alt tag](http://i.hizliresim.com/d3PvQ7.jpg)
+
