@@ -1,4 +1,4 @@
-# eclipse-hash-cracker-v0.1
+#eclipse Hash Cracker - v0.1
 Simply Hash Cracker
 
 ![alt tag](http://i.hizliresim.com/d3PvQ7.jpg)
